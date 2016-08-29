@@ -1,5 +1,2 @@
-kkkk
-sdjf
-iiihdfsdkjfi:ello world
-what is your name?
-hello world
+Q:what is your name?
+A:hello, my name is yemingzhi
